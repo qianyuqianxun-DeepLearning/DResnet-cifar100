@@ -8,5 +8,6 @@
 
 #使用pip install tfleran安装
 
-Rference code
+Reference code
+
 1.https://github.com/zhao62/Deep-Residual-Shrinkage-Networks
